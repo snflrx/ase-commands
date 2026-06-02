@@ -14,51 +14,34 @@
   - `/kms` (alias)
   - `/respawn` (alias)
   - `/die` (alias)
-
 - `/charWipe`
   - `/mindwipe` (alias)
   - `/wipe` (alias)
-
 - `/rename <new-name>`
   - `/rn <new-name>` (alias)
-
 - `/renameTribe <new-name>`
   - `/rnt <new-name>` (alias)
-
 - `/makeTribeOwner`
-
 - `/bags`
   - `/deathbag` (alias)
 
 ## **Dino Utils**
 
 - `/claimAOE`
-
 - `/feedAOE`
-
 - `/imprint`
-
 - `/imprintMe`
-
 - `/killDino`
-
 - `/mateAOE`
   - `/startFucking` (alias)
-
 - `/mateAOEStop`
   - `/stopFucking` (alias)
-
 - `/neuter`
-
 - `/neuterAOE`
-
 - `/dinoRenameAOE`
-
 - `/turretMode`
-
 - `/wakeTFUp`
   - `/wake` (alias)
-
 - `/dinoMindWipe`
   - `/dinoWipe` (alias)
   - `/wipeDino` (alias)
@@ -68,10 +51,8 @@
 - `/players`
   - `/online` (alias)
   - `/who` (alias)
-
 - `/whoAmI`
   - `/myInfo` (alias)
-
 - `/tribeInfo`
   - `/myTribe` (alias)
 
@@ -87,9 +68,7 @@
 ## **Tribe Tracker**
 
 - `/trackDino <on/off>`
-
 - `/trackMember <on/off>`
-
 - `/findWild <dino-name> <dino-level>`
 
 > [!NOTE]
