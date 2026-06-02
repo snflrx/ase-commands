@@ -1,61 +1,96 @@
-- ## **AutoCrafting**
-
-- `/autocraft`
-
 ## **AutoDecay**
 
 - `/decay`
 
-## **DinoColor**
-
-- `/setColor <region> <color-id>`
-
-## **StructureLimits**
+## **Structure Limits**
 
 - `/structureLimits`
-  - `/sl`
+  - `/sl` (alias)
+  - `/structures` (alias)
 
-## **PlayerUtils**
+## **Player Utils**
 
 - `/suicide`
-  - `/kms`
-- `/charWipe`
-- `/rename <new-name>`
-- `/renameTribe <new-name>`
-- `/makeTribeOwner`
-- `/bags`
+  - `/kms` (alias)
+  - `/respawn` (alias)
+  - `/die` (alias)
 
-## **DinoUtils**
+- `/charWipe`
+  - `/mindwipe` (alias)
+  - `/wipe` (alias)
+
+- `/rename <new-name>`
+  - `/rn <new-name>` (alias)
+
+- `/renameTribe <new-name>`
+  - `/rnt <new-name>` (alias)
+
+- `/makeTribeOwner`
+
+- `/bags`
+  - `/deathbag` (alias)
+
+## **Dino Utils**
 
 - `/claimAOE`
-- `/feedAOE`
-- `/imprint`
-- `/imprintMe`
-- `/killDino`
-- `/mateAOE`
-  - `/startFucking`
-- `/mateAOEstop`
-  - `/stopFucking`
-- `/neuter`
-  - `/neuterAOE`
-- `/dinoRenameAOE`
-- `/turretMode`
-- `/wake`
-- `/dinoWipe`
 
-## **PlayersList**
+- `/feedAOE`
+
+- `/imprint`
+
+- `/imprintMe`
+
+- `/killDino`
+
+- `/mateAOE`
+  - `/startFucking` (alias)
+
+- `/mateAOEStop`
+  - `/stopFucking` (alias)
+
+- `/neuter`
+
+- `/neuterAOE`
+
+- `/dinoRenameAOE`
+
+- `/turretMode`
+
+- `/wakeTFUp`
+  - `/wake` (alias)
+
+- `/dinoMindWipe`
+  - `/dinoWipe` (alias)
+  - `/wipeDino` (alias)
+
+## **Player Info**
 
 - `/players`
+  - `/online` (alias)
+  - `/who` (alias)
 
-## **DinoTracker**
+- `/whoAmI`
+  - `/myInfo` (alias)
 
-- `/track <dino>`
+- `/tribeInfo`
+  - `/myTribe` (alias)
 
-## **TribeTracker**
+## **Dino Color Command**
+
+- `/setColor <region> <color-id>`
+  - `/sc <region> <color-id` (alias)
+
+## **Dino Tracker (Wild)**
+
+- `/track <dino-name>`
+
+## **Tribe Tracker**
 
 - `/trackDino <on/off>`
+
 - `/trackMember <on/off>`
-- `/findWild <dinoName> <dinoLevel>`
+
+- `/findWild <dino-name> <dino-level>`
 
 > [!NOTE]
 > Words enclosed in `<>` are things you need to fill up yourself
