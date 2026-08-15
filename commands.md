@@ -71,5 +71,9 @@
 - `/trackMember <on/off>`
 - `/findWild <dino-name> <dino-level>`
 
+## **Raid Controls**
+- `/pvpStatus`
+- `/dropStatus`
+
 > [!NOTE]
 > Words enclosed in `<>` are things you need to fill up yourself
